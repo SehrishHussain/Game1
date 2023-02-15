@@ -40,7 +40,6 @@ while True:
                 print("Invalid input - try again")
             else:
                 break
-
         return user_sum
 
 
@@ -56,7 +55,7 @@ while True:
                 a, b, sum1 = random_function()
                 user_sum = user_input()
 
-            if user_sum == sum1:                
+            if user_sum == sum1:
                 print('Correct! Next round.\n')
                 correct = correct_rounds + 1
             else:
