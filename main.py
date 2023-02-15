@@ -42,7 +42,6 @@ while True:
                 break
         return user_sum
 
-
     for i in range(1, 11):                  # for loop for 10 rounds
         a, b, sum1 = random_function()
         print('Round', i)
