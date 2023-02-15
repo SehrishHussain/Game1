@@ -1,4 +1,5 @@
 import random
+
 while True:
     correct_rounds = 0
     incorrect_rounds = 0
