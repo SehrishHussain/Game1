@@ -31,7 +31,6 @@ while True:
         sum1 = a + b
         return a, b, sum1
 
-
     def user_input():                           # Input validation on user sum
         while True:
             try:
